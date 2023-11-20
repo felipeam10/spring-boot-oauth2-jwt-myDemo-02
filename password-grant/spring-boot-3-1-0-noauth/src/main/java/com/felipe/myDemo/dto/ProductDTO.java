@@ -1,6 +1,6 @@
-package com.devsuperior.demo.dto;
+package com.felipe.myDemo.dto;
 
-import com.devsuperior.demo.entities.Product;
+import com.felipe.myDemo.entities.Product;
 
 public class ProductDTO {
 

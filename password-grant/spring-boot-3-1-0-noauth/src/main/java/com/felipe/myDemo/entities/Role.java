@@ -1,10 +1,8 @@
-package com.devsuperior.demo.entities;
+package com.felipe.myDemo.entities;
 
 import jakarta.persistence.*;
 
-import java.util.HashSet;
 import java.util.Objects;
-import java.util.Set;
 
 @Entity
 @Table(name = "tb_role")

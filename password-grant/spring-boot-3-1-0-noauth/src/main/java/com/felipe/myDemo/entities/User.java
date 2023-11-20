@@ -1,4 +1,4 @@
-package com.devsuperior.demo.entities;
+package com.felipe.myDemo.entities;
 
 import java.time.LocalDate;
 import java.util.HashSet;
